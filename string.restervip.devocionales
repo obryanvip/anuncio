@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Devocionales Cristianos biblicos</string>
+
+
+
+        <string name="banner_ads1">ca-app-pub-9184949608884109/3607339680</string>
+
+        <string name="interstitial_ads1">ca-app-pub-9184949608884109/4905879410</string>
+
+        <string name="small_medium_native_ads">ca-app-pub-9184949608884109/4150630122</string>
+        <string name="Boton1">Buscar Simple</string>
+        <string name="Boton2">Avanzada</string>
+        <string name="Boton3">Recargar</string>
+
+</resources>
